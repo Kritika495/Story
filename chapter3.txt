@@ -1,1 +1,3 @@
 git status : shows the status of files
+git diff filename: shows the difference between previous state and current state of file
+git checkout filename: rolls back to the previous state of the file
