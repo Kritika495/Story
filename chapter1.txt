@@ -1,0 +1,6 @@
+   Command line
+
+to create a directory: mkdir directoryname
+to change directory: cd directoryname
+to create a file :- touch filename
+to open a file:' start filename
